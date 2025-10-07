@@ -1,2 +1,4 @@
 payload:
 - '+.epicgames.com'
+- DST-PORT,3478
+- SRC-PORT,3478
