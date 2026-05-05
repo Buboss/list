@@ -3,6 +3,7 @@ payload:
 - DST-PORT,3478
 - SRC-PORT,3478
 - PROCESS-NAME,Jump Space.exe
+- PROCESS-NAME,NTEGlobalWebBooster.exe
 #Steam
 - DOMAIN,steambroadcast.akamaized.net
 - DOMAIN,steamcommunity-a.akamaihd.net
